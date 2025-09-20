@@ -2,18 +2,6 @@
 
 Um sistema completo de gestão de projetos desenvolvido em Java, projetado para facilitar o gerenciamento de equipes, projetos e usuários em organizações de pequeno e médio porte.
 
-## 📋 Índice
-
-- [Visão Geral](#visão-geral)
-- [Características Principais](#características-principais)
-- [Requisitos do Sistema](#requisitos-do-sistema)
-- [Instalação e Configuração](#instalação-e-configuração)
-- [Como Usar](#como-usar)
-- [Arquitetura do Sistema](#arquitetura-do-sistema)
-- [Funcionalidades Detalhadas](#funcionalidades-detalhadas)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Exemplos de Uso](#exemplos-de-uso)
-
 ## 🎯 Visão Geral
 
 O Sistema de Gestão de Projetos é uma aplicação Java robusta que oferece uma solução completa para o gerenciamento de projetos, equipes e usuários. Desenvolvido com foco na simplicidade e eficiência, o sistema permite que organizações controlem o ciclo de vida completo de seus projetos, desde o planejamento inicial até a conclusão.
@@ -290,9 +278,5 @@ equipeService.adicionarMembroNaEquipe("Equipe de Desenvolvimento", usuario2);
 - **GitHub**: Hospedagem do código e colaboração
 
 ---
-
-**Última atualização**: Setembro 2024  
-**Versão do README**: 1.0  
-**Versão do Software**: 1.0.0
 
 
